@@ -1,4 +1,4 @@
-# Electronics Insurance System Management - Java Web Application
+# Electronics Insurance Management System - Java Web Application
 
 Tecnologies: JSP, Servlet, JSTL
 
