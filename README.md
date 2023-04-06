@@ -1,6 +1,4 @@
-# insurance-java-webapp
-
-Electronics Insurance System Management - Java Web Application
+# Electronics Insurance System Management - Java Web Application
 
 Tecnologies: JSP, Servlet, JSTL
 
